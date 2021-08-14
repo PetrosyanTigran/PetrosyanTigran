@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetrosyanTigran&show_icons=true&theme=radical)
+![Tigran's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetrosyanTigran&show_icons=true&theme=dark)
 
 ---
 
