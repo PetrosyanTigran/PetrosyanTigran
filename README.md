@@ -1,11 +1,9 @@
+### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Tigran!
+
 ![Tigran's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetrosyanTigran&show_icons=true&theme=dark)
 
 ---
-
-### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Tigran Petrosyan!
-
----
-
+## Reach Me
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/tpetrosyan/)
 
 ---
