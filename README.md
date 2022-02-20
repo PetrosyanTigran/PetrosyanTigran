@@ -1,6 +1,6 @@
 # Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Tigran!
 
-![Tigran's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetrosyanTigran&show_icons=true&theme=dark)
+![Tigran's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetrosyanTigran&show_icons=true&theme=radical)
 
 ---
 
